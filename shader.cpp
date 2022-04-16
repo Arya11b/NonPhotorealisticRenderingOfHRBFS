@@ -2,7 +2,7 @@
 // Created by Arya on 3/17/22.
 //
 
-#include "Shader.hpp"
+#include "shader.hpp"
 #include <fstream>
 #include <iostream>
 
